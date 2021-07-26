@@ -4,5 +4,5 @@ Display the average pixel values of your screen. Calculated through averaging se
 Sample: 
 
 
-![alt text](https://imgur.com/a/inWYELw)
+![alt text](https://i.imgur.com/pfWbIBU.png)
 
